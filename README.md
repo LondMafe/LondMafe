@@ -1,9 +1,10 @@
 <h1 align="center">Hey there I'm Mafe</h1>
 <h3 align="center">A passionate frontend developer ✨</h3>
+<img align="right" alt="profilepic" width="400" src="https://avatars.githubusercontent.com/u/148238051?v=4&size=64">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/londmafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/londmafe" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/londmafe" target="blank"><img align="center" src="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
