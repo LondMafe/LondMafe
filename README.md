@@ -1,6 +1,6 @@
 <h1 align="center">Hey there I'm Mafe</h1>
 <h3 align="center">A passionate frontend developer ✨</h3>
-<img align="right" alt="profilepic" width="400" src="https://avatars.githubusercontent.com/u/148238051?v=4&size=64">
+<img align="right" alt="profilepic" width="400" src="https://github.com/LondMafe/LondMafe/blob/main/LondMafe.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
