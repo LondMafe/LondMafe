@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/londmafe" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="40" width="70" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 
 <h3 align="left">My stats 📊</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LondMafe&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LondMafe&show_icons=true&theme=transparent" alt="Estadísticas de GitHub" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondMafe&layout=compact&theme=radical" alt="Top Lenguajes" />
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondMafe&layout=compact&theme=transparent" alt="Top Lenguajes" />
 </p>
 
