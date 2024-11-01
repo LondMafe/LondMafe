@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me 📨</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/londmafe" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="40" width="100" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="40" width="120" />
   </a>
 </p>
 
